@@ -1,6 +1,6 @@
 ## The stuff of subject programs
 
-This repository includes categories and corresponding choices, metamorphic relations, and test frames of subjects programes used in paper titled "Feedback-Directed Metamorphic Testing: ACost-Effective Approach".
+This repository includes categories and corresponding choices, metamorphic relations, and test frames of subjects programes used in paper titled "Feedback-Directed Metamorphic Testing: A Cost-Effective Approach".
 
 ### Categories and Corresponding Chocies
 All categories and choices for ACMS, CUBS, ERS, MOS, and FastJson can be found in the *categories and choices* directory. 
